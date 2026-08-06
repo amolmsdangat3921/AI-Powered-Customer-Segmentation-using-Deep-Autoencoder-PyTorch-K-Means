@@ -243,6 +243,6 @@ Possible extensions include:
 
 Data Scientist | Machine Learning | Deep Learning | NLP | Generative AI
 
-LinkedIn: *Add your LinkedIn profile*
+LinkedIn: https://www.linkedin.com/in/amol-dangat-ab31a4259/
 
-GitHub: *Add your GitHub profile*
+
